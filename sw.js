@@ -4,7 +4,7 @@ const assets = [
   "/it202-pwa-tutorial/index.html",
   "/it202-pwa-tutorial/css/style.css",
   "/it202-pwa-tutorial/js/app.js",
-  "/it202-pwa-tutorial/images/coffee1.jpg",
+  "/images/coffee1.jpg",
   "/it202-pwa-tutorial/images/coffee2.jpg",
   "/it202-pwa-tutorial/images/coffee3.jpg",
   "/it202-pwa-tutorial/images/coffee4.jpg",
